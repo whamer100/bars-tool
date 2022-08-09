@@ -222,7 +222,7 @@ void bars_handler(BARSFileContext& fileContext)
         if (eHash == 2203811915 && eCRC == 3422978971)
         {
             logging::funny("CRC mismatch has occured! But this is actually Nintendo's fault.");
-            logging::funny("If you are curious as to what is going on, open handlers.h and read starting at line 210");
+            logging::funny("If you are curious as to what is going on, open handlers.h and read starting at line 227");
             /*
              * At offsets 0x1D80 and 0x84 of Object_BillboardNpcBowling.bars (decompress the file using zstd)
              * from Nintendo Switch Sports (as of v1.2), someone at Nintendo made a single capitalization typo
