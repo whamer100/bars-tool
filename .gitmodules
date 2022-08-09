@@ -7,3 +7,6 @@
 [submodule "vendor/styler"]
 	path = vendor/styler
 	url = https://github.com/utilForever/styler
+[submodule "vendor/crc32c"]
+	path = vendor/crc32c
+	url = https://github.com/google/crc32c
