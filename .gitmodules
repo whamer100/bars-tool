@@ -4,3 +4,6 @@
 [submodule "vendor/argparse"]
 	path = vendor/argparse
 	url = https://github.com/rue-ryuzaki/argparse
+[submodule "vendor/styler"]
+	path = vendor/styler
+	url = https://github.com/utilForever/styler
